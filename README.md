@@ -67,4 +67,3 @@ Full output: [`triage_report.txt`](./triage_report.txt)
 - Add a `--format json` output mode for pipeline integration
 
 ---
-*Part of my cybersecurity portfolio — built while transitioning into a SOC Analyst role. See my other projects at [your GitHub/portfolio link].*
